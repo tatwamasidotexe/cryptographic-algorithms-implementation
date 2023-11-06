@@ -1,2 +1,2 @@
 # cryptographic-algorithms-implementation
-Assignment submission by Tatwamasi Mishra, Smruti Sanjeet and Sanjeevani Kashyap.
+This is an assignment submission for the Cryptography and Network Security course where we have implemented cryptographic algorithms such as AES-128, RSA and SHA-256, without the use of existing libraries.
